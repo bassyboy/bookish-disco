@@ -1,1 +1,2 @@
+[![Board Status](https://dev.azure.com/gatoohoo/931609f2-91ee-4adb-9ed7-23938d1f12d3/a434329f-9491-4663-977d-0dad2f63f680/_apis/work/boardbadge/ab4215b0-0916-4670-9413-69f79dc531c3)](https://dev.azure.com/gatoohoo/931609f2-91ee-4adb-9ed7-23938d1f12d3/_boards/board/t/a434329f-9491-4663-977d-0dad2f63f680/Microsoft.RequirementCategory)
 # bookish-disco
